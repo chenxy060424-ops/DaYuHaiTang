@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@300;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Noto Serif SC", serif;
+  --font-calligraphy: "Ma Shan Zheng", cursive;
+  --color-primary: #8a1c14; /* Crimson Begonia Red */
+}
+
+/* Custom scrolling list animations, soft atmospheric glow effects, and canvas overlays */
+.glow-text {
+  text-shadow: 0 0 10px rgba(138, 28, 20, 0.6), 0 0 20px rgba(138, 28, 20, 0.4);
+}
+
+.glow-blue {
+  text-shadow: 0 0 10px rgba(59, 130, 246, 0.6), 0 0 20px rgba(59, 130, 246, 0.4);
+}

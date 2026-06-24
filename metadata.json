@@ -1,0 +1,10 @@
+{
+  "name": "大鱼海棠手势交互",
+  "description": "基于MediaPipe Hands的《大鱼海棠》国风唯美手势交互网页，通过张合手掌生成海棠花瓣并还原彩色。全程60fps流畅运行，完美兼容电脑与移动端。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
